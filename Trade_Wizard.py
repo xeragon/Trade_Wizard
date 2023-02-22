@@ -4,7 +4,7 @@ from discord.ext import commands
 import fonction as f
 
 
-token = "MTA0MTcxNTk3MzI1MTY2NjAwMg.G5eDcX.Agh5cuixPIwjw4mJH_EFqT7H-5TtnKzyBzXebQ"
+token = "MTA0MTcxNTk3MzI1MTY2NjAwMg.GBj9Sq.BadI7Agy5nvnSvv7m7CAw5vSRQxZpUeW7pkBT4"
 intents = discord.Intents.all()
 intents.members = True
 bot = commands.Bot(command_prefix="/", intents=intents)
