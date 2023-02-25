@@ -4,7 +4,7 @@ from discord.ext import commands
 import fonction as f
 
 
-token = "MTA0MTcxNTk3MzI1MTY2NjAwMg.GBj9Sq.BadI7Agy5nvnSvv7m7CAw5vSRQxZpUeW7pkBT4"
+token = "TOKEN"
 intents = discord.Intents.all()
 intents.members = True
 bot = commands.Bot(command_prefix="/", intents=intents)
@@ -36,7 +36,7 @@ async def fetch_user_name(inte: discord.Interaction):
 
 @tree.command(name="update_cardname")
 async def update_cardName(inte: discord.Interaction):
-    if inte.user.id == 443471145149399069:
+    if inte.user.id == 0000000000000000:
 
         responseScry = requests.get(
             "https://api.scryfall.com/catalog/card-names")
