@@ -1,0 +1,16 @@
+@startuml bdd
+
+class users {
+  +uid: int
+}
+
+class binder {
+  +card: varchar
+  +nb_card: int
+  +uid: int
+  +searching: boolean
+}
+
+users --> binder
+
+@enduml

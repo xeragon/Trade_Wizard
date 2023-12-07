@@ -1,0 +1,13 @@
+/searching/
+7 : "ach! hans, run!"
+2 : "brims" barone, midway mobster
+1 : Spear of Heliod
+1 : Idol of Oblivion
+1 : Dragon Throne of Tarkir
+1 : Sol Ring
+
+/owned/
+3 : Spear of Heliod
+3 : Idol of Oblivion
+3 : Dragon Throne of Tarkir
+3 : Sol Ring

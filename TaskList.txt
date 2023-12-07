@@ -1,0 +1,40 @@
+input une collection a partir d'un fichier .txt   DONE
+
+passer tout en anglais DONE
+
+verifier que les input a partir d'un fichier txt soit bien des txt DONE
+
+verifier que les carte d'une liste .txt soit bien des carte existante grace a l'api scryfal DONE
+
+supression de carte dans les collection DONE
+
+passer toute les data en lower DONE
+
+faire des Commande pour afficher la wishlist et la collection DONE 
+
+faire une seule commande pour rmv les card dans tout le binder en passant le woshorhave en param DONE
+
+rmv les doublon de commande DONE
+
+ecraser ses collections avec un txt DONE
+
+
+
+recuperer ses classeurs en txt DONE
+
+recherche de trade 
+
+commande help
+
+vider un binder 
+
+proposition/accept de trade 
+
+trade done / supression des cartes des collections quand elles ont été echanger 
+
+gerer les data.json par serveur !
+
+
+systeme de log 
+
+implementer metadata des carte, extension, langue, foil ou non etc...
